@@ -279,6 +279,8 @@
      * to retrieve the latest activity for the remote master branch.
      */
     // "url": "https://github.com/microsoft/rush-example",
+    
+  "url":  "https://github.com/dev-jelly/rush-test"
 
     /**
      * The default branch name. This tells "rush change" which remote branch to compare against.
