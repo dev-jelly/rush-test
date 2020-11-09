@@ -1,0 +1,13 @@
+dependencies:
+  '@rush-temp/tools': 'file:projects/tools.tgz'
+lockfileVersion: 5.1
+packages:
+  'file:projects/tools.tgz':
+    dev: false
+    name: '@rush-temp/tools'
+    resolution:
+      integrity: sha512-Q5UmGMgMbiJl+xGRyQ6kFAGNhh19nfgyx6hD/sVp7cURPNl9J+r6lIGur866hdpQ01X+IaRm/q53y9o4L1kD4Q==
+      tarball: 'file:projects/tools.tgz'
+    version: 0.0.0
+specifiers:
+  '@rush-temp/tools': 'file:./projects/tools.tgz'

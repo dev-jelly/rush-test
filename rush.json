@@ -381,7 +381,8 @@
     //   /**
     //    * The NPM package name of the project (must match package.json)
     //    */
-    //   "packageName": "my-app",
+      {"packageName": "tools",
+       "projectFolder": "tools"}
     // 
     //   /**
     //    * The path to the project folder, relative to the rush.json config file.
